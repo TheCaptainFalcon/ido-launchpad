@@ -120,22 +120,28 @@ From my own perspective, based on the risk-off environment and ongoing market co
 
 ## EER Diagram
 
-![MySQL EER Diagram](/images/p2_eer_diagram.jpg "EER Diagram")
+![MySQL EER Diagram](/images/p2_eer_diagram.JPG "EER Diagram")
 
-## SQL Stored Procedures
-Samples queries:
+## SQL Stored Procedures - samples
 
-insert proc
-insert call
-ROI by launchpad
+### ROI by Launchpad
 
-insert proc
-insert call
-Success by launchpad
+![sql proc - roi by launchpad](/images/sql_stored_procedure-roi_by_launchpad.JPG "sql proc - roi by launchpad")
 
-insert prov
-insert call
-Top performing projects
+![sql call - roi by launchpad](/images/call-roi-by_launchpad.JPG "sql call - roi by launchpad")
+
+### Success by launchpad
+
+![sql proc - success by launchpad](/images/sql_stored_procedure-success_by_launchpad.JPG "sql proc - success by launchpad")
+
+![sql call - success by launchpad](/images/call-success_by_launchpad.JPG "sql call - success by launchpad")
+
+
+### Top Performing Projects
+
+![sql proc - top projects](/images/sql_stored_procedure-top_projects.JPG "sql proc - top projects")
+
+![sql call - top projects](/images/call-top_projects.JPG "sql call - top projects")
 
 ### Author notes:
 
