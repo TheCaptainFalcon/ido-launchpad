@@ -1,0 +1,12 @@
+Project id,Launchpad id,Launchpad,Project Name,Ticker Symbol,Blockchain,Category,Sub-Category,Market Cap,Daily Volume,TGE ROI,ATH TGE ROI,Raised by Launchpad,Total Raised,IDO Start Date,IDO End Date,ATH Date,Days to reach ATH,Status
+1,1,MISO,Yield Guild Games,YGG,"Ethereum, Harmony",GameFi,"NFT, Yield Farming, Staking, Governance, DAO, Metaverse, Play To Earn, Collectibles, Gaming Guild, Polygon Ecosystem",142390000,8560000,3.85,56.27,12500000,13830000,7/26/2021,7/26/2021,11/19/2021,116,ACTIVE
+2,1,MISO,MARS4,MARS4,Ethereum,NFT,"Governance, Marketplace, Staking, Yield Farming, Metaverse",3080000,181190,0.21,8.96,400000,400000,9/14/2021,9/21/2021,11/2/2021,42,ACTIVE
+3,1,MISO,XDEFI Wallet,XDEFI,"Ethereum, Terra Classic",Blockchain Infrastructure,"NFT, Payments, Cross-Chain, Governance, Wallet",11720000,183750,0.27,36.61,18240000,25440000,11/14/2021,11/16/2021,11/19/2021,3,ACTIVE
+4,1,MISO,DotOracle,DTO,Ethereum,Blockchain Infrastructure,"Cross-Chain, Oracle, Polkadot Ecosystem",173450,9050,0.07,3.48,150500,150500,10/25/2021,10/25/2021,10/31/2021,6,ACTIVE
+5,1,MISO,BitDAO,BIG,Ethereum,DeFi,"Governance, DAO",2140000000,64450000,0.5,2.18,379260000,609260000,8/29/2021,8/29/2021,11/11/2021,74,ACTIVE
+6,1,MISO,99Starz,STZ,"Ethereum, BNB, Polygon",GameFi,"NFT, Yield Farming, Play To Earn, collectibles, metaverse, polygon ecosystem, bnb chain ecosystem",88380,9040,0.11,1.65,428570,478570,12/10/2021,12/19/2021,12/17/2021,-2,ACTIVE
+7,1,MISO,Wrapped NCG,WNCG,Ethereum,GameFi,"play to earn, governance, metaverse, marketplace, nft, wrapped tokens",3400000,734040,0.03,1.3,8800000,8800000,8/9/2021,8/16/2021,8/16/2021,0,ACTIVE
+8,1,MISO,Creaticles,CRE8,Ethereum,Blockchain Service,"freelance, governance, nft",416100,2110,0.04,1.1,38000000,40050000,11/30/2021,12/2/2021,12/3/2021,1,ACTIVE
+9,1,MISO,Ethernaal,NAAL,Ethereum,NFT,"dao, marketplace, nft, collectibles",214520,0,0.37,1.05,16000000,16060000,10/26/2021,10/31/2021,1/20/2022,81,INACTIVE
+10,1,MISO,Volatility Protocol Token,VOL,Ethereum,DeFi,"index, mgnr",0,0,0,0.7,830020,830020,6/13/2021,6/13/2021,8/4/2021,52,INACTIVE
+11,1,MISO,iBetYou,IBY,Ethereum,DeFi,"social, payments",0,0,0.28,0.33,130650,274680,6/13/2021,6/13/2021,8/25/2021,73,INACTIVE

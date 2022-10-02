@@ -1,0 +1,339 @@
+Project ID,Project Name,Ticker Symbol,Cross-Chain,Category,Sub-Category,Status
+1,Yield Guild Games,YGG,YES,GameFi,"NFT, Yield Farming, Staking, Governance, DAO, Metaverse, Play To Earn, Collectibles, Gaming Guild, Polygon Ecosystem",ACTIVE
+2,MARS4,MARS4,NO,NFT,"Governance, Marketplace, Staking, Yield Farming, Metaverse",ACTIVE
+3,XDEFI Wallet,XDEFI,YES,Blockchain Infrastructure,"NFT, Payments, Cross-Chain, Governance, Wallet",ACTIVE
+4,DotOracle,DTO,NO,Blockchain Infrastructure,"Cross-Chain, Oracle, Polkadot Ecosystem",ACTIVE
+5,BitDAO,BIG,NO,DeFi,"Governance, DAO",ACTIVE
+6,99Starz,STZ,YES,GameFi,"NFT, Yield Farming, Play To Earn, collectibles, metaverse, polygon ecosystem, bnb chain ecosystem",ACTIVE
+7,Wrapped NCG,WNCG,NO,GameFi,"play to earn, governance, metaverse, marketplace, nft, wrapped tokens",ACTIVE
+8,Creaticles,CRE8,NO,Blockchain Service,"freelance, governance, nft",ACTIVE
+9,Ethernaal,NAAL,NO,NFT,"dao, marketplace, nft, collectibles",INACTIVE
+10,Volatility Protocol Token,VOL,NO,DeFi,"index, mgnr",INACTIVE
+11,iBetYou,IBY,NO,DeFi,"social, payments",INACTIVE
+12,GameFi,GAFI,NO,DeFi,"launchpad, bnb chain ecosystem",ACTIVE
+13,My Neighbor Alice,ALICE,YES,GameFi,"nft, governance, staking, binance launchpool, play to earn, metaverse",ACTIVE
+14,Orion Protocol,ORN,NO,DeFi,"fantom ecosystem, avalanche ecosystem",ACTIVE
+15,Victoria VR,VR,NO,GameFi,"VR/AR, metaverse, play to earn, nft",ACTIVE
+16,DeRace,DERC,YES,GameFi,"sports, bnb chain ecosystem, play to earn, gambling and betting",ACTIVE
+17,Opulous,OPUL,YES,DeFi,"launchpad, nft, loan, marketplace, amm",ACTIVE
+18,Step.app,FITFI,NO,GameFi,"nft, metaverse, move to earn (m2e), avalanche ecosystem",ACTIVE
+19,XCAD Network,XCAD,YES,Social,"marketplace, nft, watch to earn, social media",ACTIVE
+20,MetaGods,MGOD,NO,GameFi,"play to earn, nft, metaverse, staking, governance",ACTIVE
+21,Heroes & Empires,HE,NO,GameFi,"BNB Chain ecosystem, nft, play to earn, collectibles",ACTIVE
+22,OpenPredict Token,OPT,NO,DeFi,"assets, artificial intelligence",INACTIVE
+23,Hord,HORD,YES,DeFi,"governance, staking, yield farming",ACTIVE
+24,Solice,SLC,NO,GameFi,"VR/AR, play to earn, solana ecosystem, metaverse",ACTIVE
+25,Gold Fever,NGL,YES,GameFi,"bnb chain ecosystem, nft",ACTIVE
+26,Bemil,BEM,NO,GameFi,"play to earn, nft",ACTIVE
+27,Clearpool,CPOOL,NO,DeFi,"lending/borrowing, loan",ACTIVE
+28,Numbers Protocol,NUM,YES,Blockchain Service,"nft, staking, governance, bnb chain ecosystem, cross-chain, social media",ACTIVE
+29,DAFI Protocol,DAFI,NO,DeFi,"staking, governance, dapp, polygon ecosystem, sythetic assets, derivatives",ACTIVE
+30,EPIK Prime,EPIK,YES,GameFi,"Governance, collectibles",ACTIVE
+31,Seascape Crowns,CWS,YES,DeFi,"staking, nft, bnb chain ecosystem, collectibles, cross-chain, dex, launchpad",ACTIVE
+32,Ftribe Fighters,F2C,NO,GameFi,"bnb chain ecosystem, play to earn, nft, metaverse",ACTIVE
+33,Titan Hunters,TITA,NO,GameFi,"bnb chain ecosystem, metaverse, nft, play to earn",ACTIVE
+34,Orion Money,ORION,YES,DeFi,"yield farming, cross-chain, bnb chain ecosystem, terra ecosystem",ACTIVE
+35,LaunchX,LNCHX,NO,DeFi,"cross-chain, launchpad",INACTIVE
+36,DinoX,DNXC,YES,GameFi,"polygon ecosystem, staking, metaverse, marketplace, nft, play to earn",ACTIVE
+37,Gamestarter,GAME,YES,DeFi,"nft, launchpad",ACTIVE
+38,Vent Finance,VENT,YES,DeFi,"launchpad, staking, governance, polygon ecosystem, dapp",ACTIVE
+39,Gamium,GMM,NO,GameFi,"metaverse, bnb chain ecosystem",ACTIVE
+40,Warena,RENA,NO,GameFi,"play to earn, metaverse, nft",ACTIVE
+41,Starpunk,SRP,NO,GameFi,"dao, nft, play to earn, bnb chain ecosystem",ACTIVE
+42,Fear,FEAR,YES,GameFi,"nft, play to earn, staking, yield farming",ACTIVE
+43,VAIOT,VAI,NO,Blockchain Service,artifical intelligence,ACTIVE
+44,Infinity Pad,IPAD,YES,DeFi,"governance, launchpad, staking",ACTIVE
+45,Dark Frontiers,DARK,NO,GameFi,"bnb chain ecosystem, metaverse, nft, play to earn",ACTIVE
+46,Lossless Protocol,LSS,YES,Blockchain Infrastructure,"staking, security",ACTIVE
+47,KAKA NFT,KAKA,NO,NFT,"bnb chain ecosystem, metaverse, marketplace, nft",ACTIVE
+48,Crowny,CRWNY,NO,Blockchain Service,"dapp, nft, staking, solana ecosystem",ACTIVE
+49,Polygonum Online,POG,NO,GameFi,"bnb chain ecosystem, nft, marketplace, staking, governance",ACTIVE
+50,Xend Finance,XEND,YES,DeFi,"staking, governance, polygon ecosystem",ACTIVE
+51,Knit Finance,KFT,NO,DeFi,"cross-chain, loan, staking, governance, yield farming, assets",ACTIVE
+52,LTO Network,LTO,YES,Blockchain Infrastructure,bnb chain ecosystem,ACTIVE
+53,HAPI,HAPI,NO,Blockchain Service,"governance, staking",ACTIVE
+54,Brokoli,BRKL,YES,NFT,"bnb chain ecosystem, cross-chain, nft, metaverse",ACTIVE
+55,Ternoa,CAPS,NO,Blockchain Infrastructure,"nft, marketplace, polkadot ecosystem, dapp",ACTIVE
+56,Three Kingdoms,TTK,NO,GameFi,"bnb chain ecosystem, play to earn, nft",ACTIVE
+57,ShopNEXT,NEXT,NO,Blockchain Service,"bnb chain ecosystem, payments",ACTIVE
+58,Yield Protocol,YIELD,NO,DeFi,"yield farming, smart contract platform, yield aggregator, dapp",ACTIVE
+59,OpenOcean,OOE,YES,DeFi,"governance, tron ecosystem, cross-chain, solana ecosystem, exchange aggregator, bnb chain ecosystem",ACTIVE
+60,Kaby Arena,KABY,YES,GameFi,"play to earn, polygon ecosystem, collectibles, bnb chain ecosystem, nft",ACTIVE
+61,MakiSwap,MAKI,NO,DeFi,"amm, staking, yield farming, governance, heco ecosystem",ACTIVE
+62,AMAZY,AZY,NO,GameFi,"bnb chain ecosystem, move to earn (m2e)",ACTIVE
+63,NFTrade,NFTD,NO,NFT,"dapp, cross-chain, bnb chain ecosystem, yield farming, nft, marketplace, avalanche ecosystem, polygon ecosystem, heco ecosystem, launchpad, staking, collectibles",ACTIVE
+64,Cere Network,CERE,NO,Blockchain Infrastructure,"governance, nft, marketplace, polkadot ecosystem, staking",ACTIVE
+65,Demole,DMLG,NO,GameFi,"play to earn, nft, marketplace",ACTIVE
+66,AnRkey X,ANRX,YES,DeFi,"yield farming, nft, sports, polygon ecosystem",ACTIVE
+67,Aluna Social,ALN,NO,Social,"social network, ai",INACTIVE
+68,Orao Network,ORAO,YES,Blockchain Service,"polkadot ecosystem, staking, cross-chain, tron ecosystem",ACTIVE
+69,Legends of Crypto,LOCG,NO,GameFi,"nft, staking, governance, yield farming, marketplace, polygon ecosystem",ACTIVE
+70,BitLocus,BTL,YES,DeFi,"governance, insurance, payments, staking, yield farming, terra ecosystem, launchpad, dex",ACTIVE
+71,beFITTER,FIU,NO,GameFi,move to earn (m2e),ACTIVE
+72,Ispolink,ISP,YES,Blockchain Service,"dapp, payments, staking, cross-chain, polygon ecosystem, bnb chain ecosystem",ACTIVE
+73,Xana,XETA,NO,Blockchain Infrastructure,"avalanche ecosystem, metaverse",ACTIVE
+74,Formation Fi,FORM,YES,DeFi,"yield farming, cross-chain, payments, governance, polygon ecosystem",ACTIVE
+75,Chronicle,XNL,NO,NFT,"collectibles, nft",ACTIVE
+76,IOI Token,IOI,YES,GameFi,"nft, marketplace, staking, bnb chain ecosystem, polygon ecosystem, play to earn, collectibles, cosmos ecosystem, metaverse, sports",ACTIVE
+77,delta.theta,DLTA,YES,DeFi,"yield farming, bnb chain ecosystem, dex, exchange token, derivatives",ACTIVE
+78,Marnotaur,TAUR,YES,DeFi,"yield farming, lending/borrowing",ACTIVE
+79,YIN Finance,YIN,YES,DeFi,"yield farming, nft, dapp, polygon ecosystem, cross-chain, solana ecosystem",ACTIVE
+80,Crypto Prophecies,TCP,YES,GameFi,"nft, staking, governance",ACTIVE
+81,Blockasset,BLOCK,YES,NFT,"nft, collectibles, solana ecosystem, sports, marketplace, governance, staking",ACTIVE
+82,Plotx,PLOT,YES,GameFi,"polygon ecosystem, predictions",ACTIVE
+83,WAM,WAM,YES,GameFi,"play to earn, nft",ACTIVE
+84,Snook,SNK,NO,GameFi,"play to earn, polygon ecosystem, nft",ACTIVE
+85,1Sol,1SOL,YES,DeFi,"solana ecosystem, dapp, exchange aggregator, cross-chain, exchange token, dex",ACTIVE
+86,Sienna Network,SIENNA,YES,DeFi,"amm, governance, cross-chain",ACTIVE
+87,Prometheus,MGA,NO,GameFi,"bnb chain ecosystem, nft, play to earn, marketplace, governance",ACTIVE
+88,Mochi Market,MOMA,YES,Blockchain Service,"marketplace, nft, governance, staking, launchpad, amm, yield farming, polygon ecosystem, cross-chain",ACTIVE
+89,CoinsPaid,CPD,NO,CeFi,"payments, dapp, cross-chain, yield farming, amm, wallet",ACTIVE
+90,Envoy Network,ENV,YES,NFT,"bnb chain ecosystem, staking, collectibles",ACTIVE
+91,ReSource Protocol,SOURCE,YES,DeFi,"staking, privacy, lending/borrowing, governance, bnb chain ecosystem",ACTIVE
+92,DragonSB,SB,YES,GameFi,"bnb chain ecosystem, terra ecosystem, collectibles, nft, play to earn, metaverse",ACTIVE
+93,Alphr.Finance,ALPHR,NO,DeFi,social network,ACTIVE
+94,Lever Network,LEV,YES,DeFi,"amm, loan, governance, dex",ACTIVE
+95,Smoothy,SMTY,YES,DeFi,amm,ACTIVE
+96,Symbiosis Finance,SIS,YES,DeFi,"cross-chain, amm, dex, dapp, staking, yield farming, yield aggregator, exchange token",ACTIVE
+97,BBS Network,BBS,YES,Social,"social media, social network",ACTIVE
+98,Spellfire,SPELLFIRE,YES,GameFi,"nft, play to earn, collectibles",ACTIVE
+99,Meta Gaming Guild,MGG,YES,GameFi,"gaming guild, bnb chain ecosystem, dao, nft, play to earn, yield farming, cross-chain",ACTIVE
+100,KingdomX,KT,NO,GameFi,"play to earn, cross-chain, nft",ACTIVE
+101,Infinity Skies,ISKY,NO,GameFi,"nft, play to earn, marketplace, polygon ecosystem",ACTIVE
+102,Showcase,SHO,NO,Social,"mobile, marketplace, social media",INACTIVE
+103,AdaSwap,ASW,YES,DeFi,"staking, nft, marketplace, governance, dex, amm, yield farming",ACTIVE
+104,Pera Finance,PERA,NO,DeFi,"staking, yield farming",ACTIVE
+105,Definer,FIN,NO,DeFi,"lending/borrowing, near ecosystem",ACTIVE
+106,MetaSoccer,MSU,NO,GameFi,"governance, nft, play to earn, metaverse, dao, polygon ecosystem",ACTIVE
+107,Spherium,SPHRI,NO,Financial Services,"payments, marketplace, cross-chain, amm, governance",ACTIVE
+108,Fantom Maker,FAME,NO,DeFi,"launchpad, fantom ecosystem, staking",ACTIVE
+109,Hubble Protocol,HBB,NO,DeFi,"solana ecosystem, lending/borrowing, loan, dapp, dao, governance",ACTIVE
+110,DeFiato,DFIAT,YES,Financial Services,"yield farming, staking, avalanche ecosystem",ACTIVE
+111,WingRiders,WRT,NO,DeFi,"dao, yield farming, exchange token, amm, staking, dex",ACTIVE
+112,Thetan Arena,THG,YES,GameFi,"sports, play to earn, nft, bnb chain ecosystem, collectibles, marketplace, metaverse",ACTIVE
+113,Star Atlas,ATLAS,NO,GameFi,"solana ecosystem, play to earn, nft, metaverse",ACTIVE
+114,AIOZ Network,AIOZ,YES,Blockchain Infrastructure,dapp,ACTIVE
+115,BeyondFi,BYN,YES,DeFi,"amm, governance, loan, staking, polygon ecosystem, dex, lending/borrowing",ACTIVE
+116,Star Atlas DAO,POLIS,NO,GameFi,"dao, governance, metaverse, nft, solana ecosystem, play to earn",ACTIVE
+117,SHOPX,SHOPX,NO,DeFi,"nft, marketplace, governance, polkadot ecosystem",ACTIVE
+118,Sidius Heroes,SIDUS,NO,GameFi,"nft, play to earn, metaverse, marketplace",ACTIVE
+119,Blind Boxes,BLES,NO,DeFi,"governance, nft, launchpad, marketplace, dapp, collectibles",ACTIVE
+120,MetisDAO,METIS,YES,Blockchain Infrastructure,"governance, bnb chain ecosystem, layer-2",ACTIVE
+121,Good Games Guild,GGG,NO,GameFi,"gaming guild, bnb chain ecosystem, nft, play to earn, staking, governance",ACTIVE
+122,Equalizer Finance,EQZ,YES,DeFi,"polygon ecosystem, marketplace, loan, yield farming, governance",ACTIVE
+123,Lovelace World,LACE,NO,NFT,"marketplace, metaverse, launchpad, play to earn",ACTIVE
+124,ProjectOasis,OASIS,NO,GameFi,"bnb chain ecosystem, play to earn, metaverse, nft",ACTIVE
+125,Sidius Heroes DAO,SENATE,NO,GameFi,"marketplace, nft, play to earn, governance, dao, metaverse",ACTIVE
+126,Shadows Network,DOWS,NO,DeFi,"staking, governance, polkadot ecosystem",ACTIVE
+127,PathDAO,PATH,NO,GameFi,"gaming guild, dao, metaverse, nft, governance, play to earn, staking",ACTIVE
+128,Deeper Network,DPR,YES,Blockchain Service,"staking, dapp, governance, polkadot ecosystem",ACTIVE
+129,Kasta,KASTA,NO,Blockchain Service,"payments, polygon ecosystem, mobile",ACTIVE
+130,StackOS,STACK,YES,Cloud Computing,"governance, marketplace, staking, nft, polygon ecosystem, bnb chain ecosystem",ACTIVE
+131,Monsta Infinite,MONI,NO,GameFi,"bnb chain ecosystem, nft, collectibles, play to earn, metaverse, marketplace",ACTIVE
+132,Cornucopias,COPI,YES,GameFi,"bnb chain ecosystem, play to earn, nft, marketplace, staking, governance",ACTIVE
+133,Drife,DRF,NO,Blockchain Service,bnb chain ecosystem,ACTIVE
+134,Plethori,PLE,NO,DeFi,"cross-chain, amm",INACTIVE
+135,Dot.Finance,PINK,NO,DeFi,"polkadot ecosystem, yield aggregator, yield farming, staking",ACTIVE
+136,Metastrike,MTS,NO,GameFi,"metaverse, nft, play to earn, marketplace, bnb chain ecosystem",ACTIVE
+137,BloXmove,BLXM,YES,Blockchain Service,"bnb chain ecosystem, logistics",ACTIVE
+138,Solchicks,CHICKS,NO,GameFi,"play to earn, solana ecosystem, nft, collectibles, metaverse",ACTIVE
+139,Affyn,FYN,NO,GameFi,"play to earn, metaverse, nft, polygon ecosystem, collectibles",ACTIVE
+140,Pandora Protocol,PNDR,NO,NFT,"bnb chain ecosystem, nft, synthetic assets",ACTIVE
+141,Privi Trax,TRAX,NO,DeFi,marketplace,INACTIVE
+142,Relite.finance,RELI,NO,NFT,"nft, collectibles, dao, marketplace, metaverse, staking",INACTIVE
+143,Tangible,TNGBL,NO,NFT,"marketplace, nft",INACTIVE
+144,Collateral,COLL,NO,NFT,marketplace,INACTIVE
+145,ArGo,ARGO,NO,DeFi,"polkadot ecosystem, governance, staking, loan",ACTIVE
+146,Citadel.one,XCT,NO,Blockchain Service,"governance, cross-chain, staking",ACTIVE
+147,PureFi,UFI,YES,Blockchain Service,"yield farming, cross-chain, oracle, security",ACTIVE
+148,Totem,CTZN,YES,Blockchain Service,"bnb chain ecosystem, metaverse, nft, staking",ACTIVE
+149,Creator Platform,CTR,YES,Blockchain Service,"dapp, governance, nft, smart contract platform, cross-chain, launchpad",ACTIVE
+150,Bright Union,BRIGHT,NO,DeFi,"insurance, yield farming, governance, staking, bnb chain ecosystem, polkadot ecosystem, solana ecosystem, xdai ecosystem",ACTIVE
+151,OMNI - People Driven,OAI,NO,Blockchain Service,ai,INACTIVE
+152,Animal Concerts,ANML,YES,Social,"social media, music, collectibles, bnb chain ecosystem",ACTIVE
+153,Octopus Protocol,OPS,NO,DeFi,"governance, staking, amm, loan, exchange token, dex",ACTIVE
+154,BlockBank,BBANK,YES,DeFi,"dapp, staking, insurance, bnb chain ecosystem, cross-chain",ACTIVE
+155,SugarBounce,TIP,YES,Social,"social network, bnb chain ecosystem, polygon ecosystem",ACTIVE
+156,Alphadex,ROAR,NO,DeFi,"yield farming, dex, dapp, launchpad, amm, cross-chain, nft, staking",ACTIVE
+157,Mozik,MOZ,NO,NFT,"nft, marketplace, music",INACTIVE
+158,Pocket Arena,POC,YES,GameFi,"bnb chain ecosytem, play to earn, nft, marketplace",ACTIVE
+159,Plutos Network ,PLUT,NO,DeFi,"cross-chain, amm, staking, bnb chain ecosystem, solana ecosystem, polkadot ecosystem, marketplace, governance",ACTIVE
+160,Cryption Network,CNT,YES,DeFi,"dapp, wallet",ACTIVE
+161,Rainmaker Games,RAIN,NO,GameFi,"gaming guild, play to earn, nft, marketplace, cross-chain",ACTIVE
+162,Ojamu,OJA,YES,Blockchain Service,"polygon ecosystem, cross-chain, data service, advertising",ACTIVE
+163,Ally,DRCT,NO,Blockchain Service,"staking, governance, marketplace, logistics",ACTIVE
+164,Chimeras,CHIM,NO,GameFi,"bnb chain ecosystem, metaverse, play to earn, yield farming, nft",ACTIVE
+165,TribeOne,HAKA,YES,DeFi,"nft, lending.borrowing, cross-chain, staking, governance, loan",ACTIVE
+166,Decubate,DCB,NO,DeFi,"staking, governance, launchpad, cross-chain, nft",ACTIVE
+167,HoDooi,HOD,YES,NFT,"nft, cross-chain, marketplace, art, bnb chain ecosystem, collectibles",ACTIVE
+168,Space Misfits,SMCW,YES,GameFi,"governance, nft, play to earn, collectibles, bnb chain ecosystem, marketplace",ACTIVE
+169,Bridge Network,BRDG,NO,Blockchain Infrastructure,"dapp, nft, cross-chain, bnb chain ecosystem, yield farming",ACTIVE
+170,Vegaswap,VGA,NO,DeFi,"amm, cross-chain",INACTIVE
+171,Legion Network,LGX,NO,Blockchain Service,"marketplace, nft, play to earn, bnb chain ecosystem, dapp, metaverse",ACTIVE
+172,MetaWear,WEAR,NO,NFT,"nft, metaverse, bnb chain ecosystem",ACTIVE
+173,NFTify,N1,YES,Blockchain Service,"nft, cross-chain, marketplace",ACTIVE
+174,Hypersign,HID,YES,Blockchain Infrastructure,"cross-chain, staking, security, verification",ACTIVE
+175,2crazyNFT,2CRZ,YES,NFT,"bnb chain ecosystem, cross-chain, nft",ACTIVE
+176,MetaShooter,MHUNT,YES,GameFi,"nft, polygon ecosystem, metaverse, sports, play to earn",ACTIVE
+177,Globe Derivative Exchange,GDT,NO,CeFi,"nft, cex, exchange token",ACTIVE
+178,Xfai,XFIT,NO,Blockchain Service,"oracle, governance",ACTIVE
+179,Zone of Avoidance,ZOA,NO,GameFi,"nft, play to earn, bnb chain ecosystem",ACTIVE
+180,Liquidifty,LQT,NO,NFT,"bnb chain ecosystem, nft, marketplace",ACTIVE
+181,Earn Guild,EARN,NO,GameFi,"gaming guild, play to earn, nft, marketplace, metaverse, bnb chain ecosystem",ACTIVE
+182,Karmaverse,KNOT,NO,GameFi,"metaverse, polygon ecosystem, nft",ACTIVE
+183,Remnant Labs,REMN,NO,GameFi,play to earn,INACTIVE
+184,Mundo,$MUNDO,NO,GameFi,"bnb chain ecosystem, nft, play to earn, marketplace, collectibles",ACTIVE
+185,Represent,RPT,NO,DeFi,"governance, dao",ACTIVE
+186,Demodyfi,DMOD,YES,DeFi,"polkadot ecosystem, staking, bnb chain ecosystem, cross-chain, amm, exchange token",ACTIVE
+187,CDzExchange,CDZ,NO,DeFi,"dex, staking, yield farming, cross-chain, bnb chain ecosystem, polkadot ecosystem, solana ecosystem, governance, exchange token",ACTIVE
+188,EmiSwap,ESW,NO,DeFi,"amm, nft",INACTIVE
+189,Trickle,H2O,NO,Blockchain Service,"open source, smart contract",INACTIVE
+190,Ethernity Chain,ERN,NO,DeFi,"nft, yield farming, staking, governance, collectibles",ACTIVE
+191,SuperFarm,SUPER,NO,DeFi,"nft, yield farming, fantom ecosystem, polygon ecosystem, collectibles",ACTIVE
+192,Polychain Monsters,PMON,YES,DeFi,"nft, staking, dapp, marketplace, cross-chain, play to earn, collectibles",ACTIVE
+193,Wilder World,WILD,NO,GameFi,"vr/ar, nft, marketplace, metaverse",ACTIVE
+194,PAID Network,PAID,YES,DeFi,"governance, staking, launchpad, bnb chain ecosystem, cross-chain",ACTIVE
+195,Polkamarkets,POLK,NO,GameFi,"polygon ecosystem, gambling and betting, predictions",ACTIVE
+196,Refinable,FINE,NO,DeFi,"nft, marketplace, governance, bnb chain ecosystem",ACTIVE
+197,Antimatter,MATTER,YES,DeFi,"staking, governance, heco ecosystem, cross-chain, amm, dex, arbitrum ecosystem, derivatives",ACTIVE
+198,OptionRoom,ROOM,NO,GameFi,"oracle, polkadot ecosystem, gambling and betting, predictions",ACTIVE
+199,Unmarshal,MARSH,YES,DeFi,"governance, staking, bnb chain ecosystem, polygon ecosystem",ACTIVE
+200,Dfyn,DFYN,YES,DeFi,"amm, cross-chain, governance, yield farming, nft, launchpad, arbitrum ecosystem, dex",ACTIVE
+201,YOP Finance,YOP,NO,DeFi,yield aggregator,ACTIVE
+202,Ethereum Push Notification Service,PUSH,NO,Blockchain Service,"dapp, nft, governance, polygon ecosystem",ACTIVE
+203,WonderHero,WND,NO,GameFi,"play to earn, nft, marketplace, bnb chain ecosystem, cross-chain, polygon ecosystem",INACTIVE
+204,Convergence Finance,CONV,NO,DeFi,"amm, governance, dapp, launchpad, dex",ACTIVE
+205,Umbrella Network,UMB,YES,DeFi,"staking, oracle, polygon ecosystem",ACTIVE
+206,Blockchain Monster Hunt,BCMC,YES,GameFi,"cross-chain, play to earn, nft",ACTIVE
+207,Bridge Mutual,BMI,NO,DeFi,"staking, governance, amm, insurance",ACTIVE
+208,MahaDAO,MAHA,NO,DeFi,"polygon ecosystem, governance, dao",ACTIVE
+209,Kylin Network,KYL,NO,Blockchain Infrastructure,"polkadot ecosystem, governance, oracle, smart contract platform, data service, layer-1",ACTIVE
+210,Exeedme,XED,NO,Blockchain Service,"polkadot ecosystem, polygon ecosystem, play to earn, nft, bnb chain ecosystem",ACTIVE
+211,Highstreet,HIGH,YES,GameFi,"marketplace, metaverse, play to earn, binance launchpool",ACTIVE
+212,DAOventures,DVD,YES,DeFi,"yield farming, staking, governance, polygon ecosystem",ACTIVE
+213,ChainGuardians,CGG,YES,DeFi,"nft, marketplace, staking, governance, polygon ecosystem, launchpad, collectibles, play to earn, bnb chain ecosystem",ACTIVE
+214,Kattana,KTN,YES,DeFi,"exchange aggregator, dex",ACTIVE
+215,Lokr,LKR,YES,DeFi,"dapp, staking, cross-chain, polygon ecosystem, bnb chain ecosystem",ACTIVE
+216,Shyft Network,SHFT,NO,Blockchain Service,"polygon ecosystem, verification",ACTIVE
+217,Finxflo,FXF,YES,CeFi,"staking, yield farming, bnb chain ecosystem, tron ecosystem, yield aggregator, dapp, exchange token, cex",ACTIVE
+218,CoverCompared,CVR,NO,Blockchain Service,"staking, insurance",ACTIVE
+219,Mytheria,MYRA,NO,GameFi,"bnb chain ecosystem, governance, nft, play to earn",INACTIVE
+220,Saito,SAITO,NO,Blockchain Infrastructure,"polkadot ecosystem, dapp",ACTIVE
+221,Fire Protocol,FIRE,NO,DeFi,"polygon ecosystem, heco ecosystem",ACTIVE
+222,RealFevr,FEVR,NO,Social,"sports, nft, marketplace, collectibles",ACTIVE
+223,Genesis Shards,GS,YES,DeFi,"marketplace, nft, polkadot ecosystem, launchpad",ACTIVE
+224,Pinknode,PNODE,NO,Blockchain Service,"polkadot ecosystem, governance, staking",INACTIVE
+225,DOTMOOVS,MOOV,YES,GameFi,"nft, staking, sports, move to earn",ACTIVE
+226,Quidd,QUIDD,YES,NFT,"collectibles, marketplace, nft, staking, bnb chain ecosystem",ACTIVE
+227,Butterfly Protocol,BFLY,NO,Blockchain Service,governance,ACTIVE
+228,Nord Finance,NORD,NO,DeFi,"yield aggregator, polygon ecosystem",ACTIVE
+229,Oddz Finance,ODDZ,NO,DeFi,"staking, governance, polygon ecosystem, derivatives",ACTIVE
+230,Polkadex,PDEX,NO,DeFi,"polkadot ecosystem, amm, nft, staking, dex",ACTIVE
+231,APYSwap,APYS,YES,DeFi,"governance, solana ecosystem",ACTIVE
+232,Public Mint,MINT,YES,CeFi,"payments, staking",ACTIVE
+233,Humans,HEART,NO,Blockchain Infrastructure,"governance, dapp, nft, staking",ACTIVE
+234,Unido,UDO,NO,DeFi,governance,ACTIVE
+235,Stratos,STOS,NO,Cloud Storage,oracle,ACTIVE
+236,Tidal Finance,TIDAL,NO,DeFi,"staking, governance, polkadot ecosystem, insurance, polygon ecosystem",ACTIVE
+237,TRVL,TRVL,YES,Blockchain Service,governance,ACTIVE
+238,Domi Online,DOMI,YES,GameFi,"play to earn, nft, bnb chain ecosystem, staking, cross-chain",ACTIVE
+239,Rangers Protocol Gas,RPG,YES,Blockchain Infrastructure,"cross-chain, smart contract platform, staking",ACTIVE
+240,Legend of Fantasy War,LFW,NO,GameFi,"marketplace, nft, play to earn, metaverse, collectibles",ACTIVE
+241,Charged Particles,IONX,NO,DeFi,"nft, governance, dapp, collectibles",ACTIVE
+242,Vera,VERA,YES,NFT,"marketplace, staking, loan, cross-chain",ACTIVE
+243,Happy Land,HPL,NO,GameFi,"metaverse, nft, play to earn",ACTIVE
+244,Polytrade,TRADE,YES,DeFi,"polygon ecosystem, marketplace, staking, governance, lending/borrowing",ACTIVE
+245,Fractal,FCL,NO,Blockchain Service,"data service, privacy, digital identity",ACTIVE
+246,Konomi Network,KONO,NO,DeFi,"polkadot ecosystem, governance, staking",ACTIVE
+247,DOSE,DOSE,YES,GameFi,"metaverse, nft, sports, collectibles, bnb chain ecosystem, play to earn, move to earn",ACTIVE
+248,Lithium Finance,LITH,NO,DeFi,"oracle, staking, smart contract platform",ACTIVE
+249,Standard Protocol,STND,NO,Blockchain Service,"polkadot ecosystem, amm, oracle, governance, staking, yield farming",ACTIVE
+250,Realm,REALM,YES,GameFi,"cross-chain, bnb chain ecosystem, polygon ecosystem, nft, metaverse, play to earn, staking, governance",ACTIVE
+251,Blockchain Cuties Universe,BCUG,NO,DeFi,"marketplace, dapp, nft, governance, tron ecosystem, play to earn, collectibles",ACTIVE
+252,Royale Finance,ROYA,YES,DeFi,"cross-chain, metaverse",ACTIVE
+253,Ethermon,EMON,YES,GameFi,"marketplace, staking, nft, play to earn, polygon ecosystem, metaverse, collectibles",ACTIVE
+254,UnoRe,UNO,YES,DeFi,"insurance, governance, staking",ACTIVE
+255,Unbound Finance,UNB,YES,DeFi,"cross-chain, amm, synthetic assets, dao, polygon ecosystem, bnb chain ecosystem",ACTIVE
+256,Zodium,ZODI,NO,GameFi,"nft, play to earn, cross-chain",ACTIVE
+257,Mecha Morphing,MAPE,NO,GameFi,"play to earn, nft, metaverse",ACTIVE
+258,Strips Finance,STRP,YES,DeFi,"bnb chain ecosystem, insurance, lending/borrowing, dex, derivatives",ACTIVE
+259,Drops,DOP,NO,DeFi,"nft, staking, loan, governance, yield farming",ACTIVE
+260,Kawaii Islands,KWT,NO,GameFi,"play to earn, nft, bnb chain ecosystem, metaverse, marketplace",ACTIVE
+261,MOBLAND,SYNR,NO,GameFi,"dao, governance, marketplace, metaverse, play to earn, staking",ACTIVE
+262,Orbitau,TAUM,NO,GameFi,"bnb chain ecosystem, nft, play to earn, staking, marketplace, governance",ACTIVE
+263,Crypto Fight Club,FIGHT,NO,GameFi,"bnb chain ecosystem, nft, play to earn, staking",ACTIVE
+264,NiiFi,NIIFI,NO,DeFi,"amm, loan, governance",ACTIVE
+265,Paralink Network,PARA,YES,Blockchain Service,"cross-chain, oracle, polkadot ecosystem, governance",ACTIVE
+266,Tenet,TEN,NO,DeFi,"cross-chain, amm",INACTIVE
+267,e-Money,NGM,NO,CeFi,"staking, payments, avalanche ecosystem, polygon ecosystem, amm, wallet",ACTIVE
+268,FreshCut,FCD,NO,Social,"social network, social media, polygon ecosystem",ACTIVE
+269,TosDis,DIS,NO,DeFi,"staking, yield farming, bnb chain ecosystem",ACTIVE
+270,Phuture,PHTR,NO,Blockchain Service,"governance, staking, index",ACTIVE
+271,WOMBAT,WOMBAT,YES,Blockchain Service,"governance, polygon ecosystem, nft",ACTIVE
+272,Nitro League,NITRO,YES,GameFi,"marketplace, metaverse, nft, play to earn, polygon ecosystem",ACTIVE
+273,Galaxy Fight Club,GCOIN,NO,GameFi,"collectibles, nft, play to earn, polygon ecosystem",ACTIVE
+274,SpiderDAO,SPDR,NO,Blockchain Service,"dao, governance",ACTIVE
+275,OkLetsPlay,OKLP,NO,GameFi,"polygon ecosystem, sports, play to earn",ACTIVE
+276,Burp,BURP,YES,Blockchain Service,"governance, nft, marketplace, lending/borrowing, yield farming, play to earn, collectibles",ACTIVE
+277,Meme.com,MEM,YES,DeFi,"nft, governance, staking, marketplace",ACTIVE
+278,Ark Rivals,ARKN,YES,GameFi,"bnb  chain ecosystem, nft, play to earn, staking",ACTIVE
+279,Polinate,POLI,NO,Blockchain Service,"launchpad, polygon ecosystem, crowdfunding",ACTIVE
+280,Safle,SAFLE,YES,DeFi,"dapp, nft, payments, privacy, polygon ecosystem, governance, dao, staking",ACTIVE
+281,Artmeta,MART,NO,NFT,"marketplace, vr/ar, metaverse, nft, polygon ecosystem",ACTIVE
+282,Deliq Finance,DLQ,NO,DeFi,"staking, yield farming, avalanche ecosystem, cross-chain, dao, governance",ACTIVE
+283,Wonderman Nation,WNDR,NO,GameFi,"nft, marketplace, play to earn",ACTIVE
+284,WagyuSwap,WAG,YES,DeFi,"bnb chain ecosystem, dex, staking, dapp",ACTIVE
+285,NFTLaunch,NFTL,NO,NFT,"marketplace, nft, staking, launchpad, collectibles",ACTIVE
+286,GameZone,GZONE,YES,DeFi,"bnb chain ecosystem, nft, play to earn, staking, launchpad",ACTIVE
+287,BitOrbit,BITORB,NO,Social,"bnb chain ecosystem, social media",ACTIVE
+288,CrossWallet,CWT,YES,Blockchain Infrastructure,"cross-chain, dapp, staking, governance, tron ecosystem, wallet",ACTIVE
+289,BSC Station,BSCS,NO,DeFi,"nft, marketplace",ACTIVE
+290,Ghospers Game,GHSP,NO,GameFi,"marketplace, nft, play to earn",ACTIVE
+291,Medacoin,MEDA,NO,GameFi,"nft, marketplace",INACTIVE
+292,CrossSwap,CSWAP,YES,DeFi,"bnb chain ecosystem, dex, cross-chain, exchange token",ACTIVE
+293,Qmall,QMALL,YES,CeFi,"cex, exchange token, bnb chain ecosystem",ACTIVE
+294,Operon Origins,ORO,NO,GameFi,"bnb chain ecosystem, collectibles, marketplace, nft, play to earn",ACTIVE
+295,Verve,VERVE,YES,GameFi,"social media, bnb chain ecosystem",ACTIVE
+296,Swapz,SWAPZ,YES,DeFi,"amm, dapp, staking, tron ecosystem, exchange token, dex",ACTIVE
+297,Polker,PKR,YES,GameFi,"nft, staking, tron ecosystem",ACTIVE
+298,Stack,OSSTACK,YES,Cloud Computing,"governance, marketplace, staking, nft, polygon ecosystem, bnb chain ecosystem",ACTIVE
+299,Raze Network,RAZE,NO,Blockchain Service,"polkadot ecosystem, governance, polygon ecosystem",ACTIVE
+300,Outer Ring,GQ,NO,GameFi,"marketplace, nft, play to earn",ACTIVE
+301,O3 Swap,O3,YES,DeFi,"staking, amm, governance, yield farming, cross-chain, solana ecosystem, heco ecosystem, exchange token, dex",ACTIVE
+302,Dexsport,DESU,NO,GameFi,"bnb chain ecosystem, sports, gambling and betting",ACTIVE
+303,Identity,IDTT,NO,Blockchain Service,verification,ACTIVE
+304,Cook Protocol,COOK,YES,DeFi,governance,ACTIVE
+305,KELVPN,KEL,YES,Blockchain Service,"governance, staking",ACTIVE
+306,Media Industry Licensing Content,MLT,YES,Blockchain Service,"marketplace, governance, staking, metaverse",ACTIVE
+307,HappyFans,HAPPY,YES,Social,"privacy, marketplace, nft, payments, bnb chain ecosystem",ACTIVE
+308,Freela,FREL,YES,DeFi,"governance, payments, staking, marketplace",ACTIVE
+309,Lever Network,LEV,YES,DeFi,"amm, loan, governance, dex",ACTIVE
+310,Katana Inu,KATA,YES,GameFi,"bnb chain ecosystem, collectibles, marketplace, nft, play to earn, staking",ACTIVE
+311,Flourishing ,AIAI,NO,Blockchain Service,"bnb chain ecosystem, portfolio management, ai",ACTIVE
+312,XP Network,XPNET,YES,NFT,"collectibles, bnb chain ecosystem, polkadot ecosystem, solana ecosystem, tron ecosystem, cross-chain, avalanche ecosystem, heco ecosystem, dapp",ACTIVE
+313,World of Defish,WOD,NO,GameFi,"bnb chain ecosystem, governance, marketplace, metaverse, nft, play to earn",ACTIVE
+314,TradeStars,TSX,YES,GameFi,"amm, governance, marketplace, nft",ACTIVE
+315,Metafluence,METO,NO,Social,"bnb chain ecosystem, collectibles, metaverse, nft, governance, marketplace",ACTIVE
+316,Tidex Token,TDX,YES,CeFi,"cex, exchange token",ACTIVE
+317,EQIFI,EQX,YES,DeFi,"loan, yield aggregator, governance, bnb chain ecosystem, payments",ACTIVE
+318,Atlantis Metaverse,TAU,NO,GameFi,"bnb chain ecosystem, marketplace, metaverse, nft",ACTIVE
+319,Roseon Finance,ROSN,NO,DeFi,"yield aggregator, nft, yield farming, cross-chain, dapp, exchange aggregator, bnb chain ecosystem, launchpad",ACTIVE
+320,SafeLaunch,SFEX,NO,DeFi,"cross-chain, bnb chain ecosystem, launchpad, staking, yield farming",ACTIVE
+321,Fanadise,FAN,NO,DeFi,"nft, marketplace, staking",ACTIVE
+322,InvestDex,INVEST,NO,Blockchain Service,dapp,ACTIVE
+323,VikingsChain,VIKC,NO,GameFi,dapp,INACTIVE
+324,Marvelous NFTs,MNFT,YES,GameFi,"nft, collectibles, play to earn, marketplace, bnb chain ecosystem, polygon ecosystem",ACTIVE
+325,Ydragon,YDR,YES,DeFi,"cross-chain, governance, index, yield farming, bnb chain ecosystem",ACTIVE
+326,ADAO,ADAO,YES,DeFi,"assets, governance, bnb chain ecosystem, dao",ACTIVE
+327,X22,X22,NO,Social,"social network, art",ACTIVE
+328,Alium Finance,ALM,YES,DeFi,"amm, cross-chain, nft, exchange token, dex",ACTIVE
+329,NFT Stars,NFTS,NO,NFT,"cross-chain, marketplace",ACTIVE
+330,Liquidifty,LQT,NO,NFT,"bnb chain ecosystem, nft, marketplace",ACTIVE
+331,ADALend,ADAL,YES,DeFi,"dao, lending/borrowing, dapp, governance, staking, bnb chain ecosystem",ACTIVE
+332,NeoFi,NEOFI,NO,CeFi,"portfolio management, staking, bnb chain ecosystem",ACTIVE
+333,WeWay,WWY,YES,Blockchain Service,"collectibles, art, nft, bnb chain ecosystem",ACTIVE
+334,Polar Sync,POLAR,NO,Blockchain Service,"dapp, api",INACTIVE
+335,MeDIA eYe,EYE,YES,NFT,"bnb chain ecosystem, collectibles, marketplace",ACTIVE
+336,Greenheart,CBD,NO,DeFi,"dapp, staking, loan, governance",ACTIVE
+337,Xion,XGT,NO,DeFi,"bnb chain ecosystem, yield farming, cross-chain",ACTIVE
+338,PolkaTrail,TRAIL,NO,DeFi,"nft, travel",ACTIVE
