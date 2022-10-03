@@ -1,8 +1,30 @@
 # IDO Launchpad
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/thecaptainfalcon/ido-launchpad)
-![Investor Dashboard](/images/p2_investor_dashboard.png "Investor Dashboard - IDO Launchpad")
+
 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/joseph708/viz/DraftP2/InvestorDashboard) 
+
+![Investor Dashboard](/images/p2_investor_dashboard.png "Investor Dashboard - IDO Launchpad")
+
+## Table of Contents
+1. [What is this project?](#proj-id)
+2. [Domain Key Terms & Definitions](#dom-id)
+3. [Tech Stack](#tech-id)
+4. [What is the extent of this project?](#purpose-id)
+5. [Who is the end user and what do they care about the most?](#enduser-id)
+6. [How are the chosen KPIs determined and why are they important?](#kpi-id)
+7. [Where did the data come from?](#data-id)
+8. [Challenges faced during the project?](#challenge-id)
+9. [How do you use the dashboard?](#instruction-id)
+10. [What other data would help to make this existing dataset more effective in drawing conclusions?](#moredata-id)
+11. [What actions do you recommend for end users based on the data?](#recommend-id)
+12. [EER Diagram](#eer-id)
+13. [SQL Stored Procedures - Samples/Examples](#sql-id)
+14. [Author notes](#author-id)
+
+
+
+<div id='proj-id'/>
 
 ## What is this project
 
@@ -10,8 +32,9 @@ This is a project aimed towards analyzing the many characteristics that make up 
 
 Characteristics revolve on how a project is considered to be successful, their current TGE ROI, their ATH ROI, funds raised per IDO, total funds raised, their marketcap, trading volume, etc.
 
+<div id='dom-id'/>
 
-## Domain Key terms & definitions:
+## Domain Key Terms & Definitions:
 
 - **IDO:** Initial Decentralized Offering.
 - **Launchpads:** Centralized platforms for fundraising token-based projects typically in the form of vested tokens at discounted rates. Launchpads can come in the form of two different setups of a lottery system or guaranteed allocation by utilizing their own tokens as requirements for pre-determined tiers granting increased chances or allocation opportunities.
@@ -19,12 +42,16 @@ Characteristics revolve on how a project is considered to be successful, their c
 - **Mcap:** Market cap
 - **ATH:** All time high, typically referred to their price/volume/mcap at their peak.
 
+<div id='tech-id'/>
+
 ## Tech Stack:
 
 Data analyis:
 - Tableau
 - Excel
 - MySQL (as an afterthought)
+
+<div id='purpose-id'/>
 
 ## What is the extent of this project?
 
@@ -38,6 +65,8 @@ If one were to calculate the profitability metric based also on launchpad token 
 
 Even then, to further support the data revolving around the initial token buy-in in combination with a launchpad's lottery system that would require extensive research in the blockchain as participation data is sometimes not readily available on all launchpads.
 
+<div id='enduser-id'/>
+
 ## Who is the end user and what do they care about the most?
 
 **Investors.**
@@ -45,6 +74,8 @@ Even then, to further support the data revolving around the initial token buy-in
 Every type has their own investing methodologies, but at their core, they care about how to make more money while reducing uncertainties and minimizing risks.
 
 Therefore, dashboard KPIs come in the form of success rates, ROIs, funding amounts.
+
+<div id='kpi-id'/>
 
 ## How are the chosen KPIs determined and why are they important? 
 
@@ -62,10 +93,14 @@ These are important figures to look at to gauge public interest levels and helps
 
 Projects are only ideas on paper, and need funds to pay for development and business expenses, but if there is little funding and lack of interest, the growth period becomes exponentially difficult even after a definitive proof of concept is shown. 
 
+<div id='data-id'/>
+
 ## Where did the data come from?
 
 Manual extraction from:
 https://cryptorank.io
+
+<div id='challenge-id'/>
 
 ## Challenges faced during the project?
 
@@ -80,6 +115,8 @@ Eventually had to use normal filtering tabs to tackle this issue.
 Another issue was how overlays work for instructionals, they had to be removed as a feature because the text boxes need to be placed in a layer where they dont block interactable filters from charts.
 
 The instructions would require too much text and given the amount of bars taking up the dashboard, it would be difficult to squeeze them together in a way that doesn't look awkward.
+
+<div id='instruction-id'/>
 
 ## How do you use the dashboard?
 Reference the KPIs at the top of the dashboard as a simple answer to whether you should invest into IDOs.
@@ -98,6 +135,8 @@ You can view the historical performances of projects by category to understand p
 
 Lastly, by utilizing every filter, you can take a look at the specific projects that meet your criteria. In this manner, you can explore these projects in your own way to see if other projects are similar and if they are worth looking into.
 
+<div id='moredata-id'/>
+
 ## What other data would help to make this existing dataset more effective in drawing conclusions?
 
 Number of participants of each project's IDO.
@@ -114,15 +153,21 @@ The % chance data based on the launchpad lottery system.
 
 Given each tier system predetermined by a launchpad, as well as the number of participants actively engaging a project, we could see the likely chances of receiving an allocation and to see what percentage people are investing into or not, even if they were to receive an allocation.
 
+<div id='recommend-id'/>
+
 ## What actions do you recommend for end users based on the data?
 
 From my own perspective, based on the risk-off environment and ongoing market conditions of hiking federal interest rates, CPI, and uncertainty in the coming months, I wouldn't recommend participating in IDOs at the moment.
+
+<div id='eer-id'/>
 
 ## EER Diagram
 
 ![MySQL EER Diagram](/images/p2_eer_diagram.JPG "EER Diagram")
 
-## SQL Stored Procedures - samples
+<div id='sql-id'/>
+
+## SQL Stored Procedures - Samples/Examples
 
 ### ROI by Launchpad
 
@@ -142,6 +187,8 @@ From my own perspective, based on the risk-off environment and ongoing market co
 ![sql proc - top projects](/images/sql_stored_procedure-top_projects.JPG "sql proc - top projects")
 
 ![sql call - top projects](/images/call-top_projects.JPG "sql call - top projects")
+
+<div id='author-id'/>
 
 ### Author notes:
 
